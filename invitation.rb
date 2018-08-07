@@ -9,6 +9,8 @@ puts "What date is your party?"
 date = gets.chomp
 puts "What time is your party?"
 time = gets.chomp
+puts "When is RSVP date?"
+rsvp_date = gets.chomp
 
 puts "Dear #{guest_name},
 
